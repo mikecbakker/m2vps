@@ -1,0 +1,1 @@
+mvn exec:java -Dexec.mainClass="com.m2se.vp.scraper.VPScraper" -Dexec.cleanupDaemonThreads="false"
